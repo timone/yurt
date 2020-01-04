@@ -198,14 +198,14 @@
   background-color: #3217c8;
 }
 .btn.action-2 {
-  background-color: #ffaa3f;
+  background-color: #482be7;
   color: #ffffff;
 }
 .btn.action-2:hover {
   background-color: #ff930c;
 }
 .btn.action-3 {
-  background-color: #ff5331;
+  background-color: 482be7;
   color: #ffffff;
 }
 .btn.action-3:hover {
@@ -213,7 +213,7 @@
 }
 .btn.action-white {
   background-color: #ffffff;
-  color: #ffaa3f;
+  color: #482be7;
 }
 .btn.action-white:hover {
   background-color: #e6e6e6;
